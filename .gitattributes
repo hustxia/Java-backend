@@ -1,0 +1,3 @@
+# CodeGen Java-backend: pure docs repo.
+# Mark the build-artifact directory as generated so it does not pollute the language stats
+**/build/** linguist-generated=true
